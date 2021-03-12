@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mrjry
+- 👀 I’m interested in raspberry pi
+- 🌱 I’m currently learning in automotive eng.
